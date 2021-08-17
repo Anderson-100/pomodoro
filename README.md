@@ -1,4 +1,4 @@
-# pomodoro
+# pomodoro.py
 
 A simple Pomodoro timer, built in Python. <br>
 <br>
@@ -14,5 +14,7 @@ This program runs in a never-ending loop; use `^C` to end it. <br>
 Pomodoro is a popular studying and productivity technique that combines timed "Work" sessions with breaks in between. For example, one popular configuration is 20-minute block of work with 5-minute breaks in between. 
 
 ## Update Log
-### 2021-08-16
+### v1.0 
+
+*2021-08-16* <br>
 Initial commit. Users can choose between the default 20/5 or personalize the time using command-line arguments. Currently uses sound effects from the popular 2018 game Among Us, although I am planning on implementing more themes.
