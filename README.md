@@ -8,10 +8,12 @@ To use it, simply download the files and run one of the following commands:
 
 This program runs in a never-ending loop; use `^C` to end it. <br>
 <br>
-*Requires Python 3 due to the implementation of f-strings.*
+**Requires:** 
+- [Python 3](https://www.python.org/), due to the implementation of f-strings.
+- [playsound](https://pypi.org/project/playsound/) library to play audio.
 
 ## What is Pomodoro?
-Pomodoro is a popular studying and productivity technique that combines timed "Work" sessions with breaks in between. For example, one popular configuration is 20-minute block of work with 5-minute breaks in between. 
+Pomodoro is a popular studying and productivity technique that combines timed work sessions with breaks in between. For example, one popular configuration is 20-minute block of work with 5-minute breaks in between, although many people will have their own personal preference (including [Animedoro](https://youtu.be/bUjGZJIgse0)).
 
 ## Update Log
 ### v1.0 
