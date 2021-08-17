@@ -6,9 +6,9 @@ Version 1.0
 """
 
 # Imports
-import os
 import sys
 import time
+from playsound import playsound
 
 # Input times are in minutes
 def main(work_time, break_time):
@@ -21,12 +21,11 @@ def main(work_time, break_time):
         print(f"Round {cnt}!")
         print("Work:")
         countdown(work_time * 60)
-        os.system("afplay " + work_done_audio)
+        playsound(work_done_audio)
 
         print("Break:")
         countdown(break_time * 60)
-        os.system("afplay " + break_done_audio)
-
+        playsound(break_done_audio)
         cnt += 1
 
 # Uses the time library to count down for the inputted number of seconds
