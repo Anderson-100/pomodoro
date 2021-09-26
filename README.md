@@ -19,7 +19,7 @@ This program runs in a never-ending loop; use `^C` to end it. <br>
 ## Themes
 Currently, the available themes are:
 - `among_us`: Sound effects from the popular 2018 video game Among Us!
-- `hype`: MLG air horn at the end of the work section, Bruh Sound Effect #2 at the end of the break.
+- `hype`: *MLG air horn* at the end of the work section, *Bruh Sound Effect #2* at the end of the break.
 - `andersons_special`: Combines the work_done sound from `among_us` with the break_done sound effect from `hype`.
 
 **Want to add your own theme?** ***Here's how:***
