@@ -1,8 +1,7 @@
 """
 A pomodoro timer based in Python. Can take in command-line arguments for  personalization.
 Author: Anderson Hsiao
-Version 1.0 
-2021-08-16
+Last updated 2021-09-26
 """
 
 # Imports
