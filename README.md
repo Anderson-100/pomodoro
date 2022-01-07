@@ -21,7 +21,7 @@ This program runs in a never-ending loop; use `^C` to end it.
 ## Custom Settings
 Tired of typing out your custom time intervals every time? Now, you can save your unique settings and access them quickly, anytime! 
 
-To create a new custom setting, create a txt file in the `custom_settings` folder and type your desired theme, work time, break time, and extended break time, each on a separate line. Then, the next time you start the timer, just type the name of the file (without the `.txt`) after `python3 pomodoro.py` to use your custom mode!
+To create a new custom setting, create a txt file in the `custom_settings` folder and type your desired theme, work time, break time, and extended break time, each on a separate line. Then, the next time you start the timer, just type the name of the file (without the `.txt`) after `python3 pomodoro.py` to use your custom mode! Three examples are given in the folder for reference.
 
 ## Themes
 Currently, the available themes are:
